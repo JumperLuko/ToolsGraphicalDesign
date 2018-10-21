@@ -7,6 +7,8 @@ I'm search for simple tools for development, very effective in results, small so
 ## Responsive.css
 Someone can use my css style, based in w3Schools examples.
 
+`responsive_flex-grid.css` on folder `my` is the file based in the flex, grid and block (write like vanilla mode) elements.
+
 `responsive_flex.css` on folder `my` is the file based in the flex element.
 
 `responsive_block.css` on folder `my` is the file and i'm editing with no versioning.
