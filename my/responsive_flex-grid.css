@@ -2,21 +2,19 @@
 Write by Jumper Luko (www.jumperl.com)
 mailto: jumper.luko@gmail.com
 Create: 09 Aug 2018
-Modified: 24 Aug 2018
+Modified: 14 Jan 2019
 
 Please Read for help:
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://www.w3schools.com/csS/css3_flexbox.asp
 * https://www.w3schools.com/w3css/w3css_responsive.asp
+* https://css-tricks.com/snippets/css/complete-guide-grid/
+* https://www.w3schools.com/css/css_grid.asp
 */
 
 * { box-sizing: border-box;}
 body{
     margin: 0;padding: 0;
-    /* Unlock below and it will be like float left */
-    /* display: flex;
-    flex-wrap:wrap;
-    justify-content:flex-start;
-    align-content: flex-start; */
 }
 
 /*---- ---- Responsive Grid ---- ----*/
@@ -321,7 +319,10 @@ body{
     .vcol-g-12 {width: 100%;}
 }
 
-/*---- ---- Elements Text ---- ----*/
+/*---- ---- Generic Elements ---- ----*/
+a.ainherit{color: inherit;text-decoration: inherit;}
+
+/*---- Elements Text ----*/
 /* Fonts Sizes, i'm like. You just can remove the point.*/
 @media only screen and (max-width: 767px) {
 .h1{font-size:54px;}
