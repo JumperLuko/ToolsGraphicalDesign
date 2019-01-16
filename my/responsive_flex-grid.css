@@ -2,7 +2,7 @@
 Write by Jumper Luko (jumperl.com/?page=on)
 mailto: jumper.luko@gmail.com
 Create: 09 Aug 2018
-Modified: 15 Jan 2019
+Modified: 16 Jan 2019
 
 Please Read for help:
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -155,6 +155,26 @@ body {margin: 0;padding: 0;}
     .fcol-ss-10 {width: 83.33%;}
     .fcol-ss-11 {width: 91.66%;}
     .fcol-ss-12 {width: 100%;}
+
+    .fcol-ss_5{width:5%}
+    .fcol-ss_10{width:10%}
+    .fcol-ss_25{width:25%}
+    .fcol-ss_20{width:20%}
+    .fcol-ss_30{width:30%}
+    .fcol-ss_35{width:35%}
+    .fcol-ss_40{width:40%}
+    .fcol-ss_45{width:45%}
+    .fcol-ss_50{width:50%}
+    .fcol-ss_55{width:55%}
+    .fcol-ss_60{width:60%}
+    .fcol-ss_65{width:65%}
+    .fcol-ss_70{width:70%}
+    .fcol-ss_75{width:75%}
+    .fcol-ss_80{width:80%}
+    .fcol-ss_85{width:85%}
+    .fcol-ss_90{width:90%}
+    .fcol-ss_95{width:95%}
+    .fcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 600px) {
     .fcol-s-1 {width: 8.33%;}
@@ -169,6 +189,26 @@ body {margin: 0;padding: 0;}
     .fcol-s-10 {width: 83.33%;}
     .fcol-s-11 {width: 91.66%;}
     .fcol-s-12 {width: 100%;}
+
+    .fcol-ss_5{width:5%}
+    .fcol-ss_10{width:10%}
+    .fcol-ss_25{width:25%}
+    .fcol-ss_20{width:20%}
+    .fcol-ss_30{width:30%}
+    .fcol-ss_35{width:35%}
+    .fcol-ss_40{width:40%}
+    .fcol-ss_45{width:45%}
+    .fcol-ss_50{width:50%}
+    .fcol-ss_55{width:55%}
+    .fcol-ss_60{width:60%}
+    .fcol-ss_65{width:65%}
+    .fcol-ss_70{width:70%}
+    .fcol-ss_75{width:75%}
+    .fcol-ss_80{width:80%}
+    .fcol-ss_85{width:85%}
+    .fcol-ss_90{width:90%}
+    .fcol-ss_95{width:95%}
+    .fcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 768px) {
     .fcol-1 {width: 8.33%;}
@@ -183,6 +223,26 @@ body {margin: 0;padding: 0;}
     .fcol-10 {width: 83.33%;}
     .fcol-11 {width: 91.66%;}
     .fcol-12 {width: 100%;}
+
+    .fcol-ss_5{width:5%}
+    .fcol-ss_10{width:10%}
+    .fcol-ss_25{width:25%}
+    .fcol-ss_20{width:20%}
+    .fcol-ss_30{width:30%}
+    .fcol-ss_35{width:35%}
+    .fcol-ss_40{width:40%}
+    .fcol-ss_45{width:45%}
+    .fcol-ss_50{width:50%}
+    .fcol-ss_55{width:55%}
+    .fcol-ss_60{width:60%}
+    .fcol-ss_65{width:65%}
+    .fcol-ss_70{width:70%}
+    .fcol-ss_75{width:75%}
+    .fcol-ss_80{width:80%}
+    .fcol-ss_85{width:85%}
+    .fcol-ss_90{width:90%}
+    .fcol-ss_95{width:95%}
+    .fcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 960px) {
     .fcol-m-1 {width: 8.33%;}
@@ -197,6 +257,26 @@ body {margin: 0;padding: 0;}
     .fcol-m-10 {width: 83.33%;}
     .fcol-m-11 {width: 91.66%;}
     .fcol-m-12 {width: 100%;}
+
+    .fcol-ss_5{width:5%}
+    .fcol-ss_10{width:10%}
+    .fcol-ss_25{width:25%}
+    .fcol-ss_20{width:20%}
+    .fcol-ss_30{width:30%}
+    .fcol-ss_35{width:35%}
+    .fcol-ss_40{width:40%}
+    .fcol-ss_45{width:45%}
+    .fcol-ss_50{width:50%}
+    .fcol-ss_55{width:55%}
+    .fcol-ss_60{width:60%}
+    .fcol-ss_65{width:65%}
+    .fcol-ss_70{width:70%}
+    .fcol-ss_75{width:75%}
+    .fcol-ss_80{width:80%}
+    .fcol-ss_85{width:85%}
+    .fcol-ss_90{width:90%}
+    .fcol-ss_95{width:95%}
+    .fcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 1200px) {
     .fcol-b-1 {width: 8.33%;}
@@ -211,6 +291,26 @@ body {margin: 0;padding: 0;}
     .fcol-b-10 {width: 83.33%;}
     .fcol-b-11 {width: 91.66%;}
     .fcol-b-12 {width: 100%;}
+
+    .fcol-ss_5{width:5%}
+    .fcol-ss_10{width:10%}
+    .fcol-ss_25{width:25%}
+    .fcol-ss_20{width:20%}
+    .fcol-ss_30{width:30%}
+    .fcol-ss_35{width:35%}
+    .fcol-ss_40{width:40%}
+    .fcol-ss_45{width:45%}
+    .fcol-ss_50{width:50%}
+    .fcol-ss_55{width:55%}
+    .fcol-ss_60{width:60%}
+    .fcol-ss_65{width:65%}
+    .fcol-ss_70{width:70%}
+    .fcol-ss_75{width:75%}
+    .fcol-ss_80{width:80%}
+    .fcol-ss_85{width:85%}
+    .fcol-ss_90{width:90%}
+    .fcol-ss_95{width:95%}
+    .fcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 1760px) {
     .fcol-g-1 {width: 8.33%;}
@@ -225,6 +325,26 @@ body {margin: 0;padding: 0;}
     .fcol-g-10 {width: 83.33%;}
     .fcol-g-11 {width: 91.66%;}
     .fcol-g-12 {width: 100%;}
+
+    .fcol-ss_5{width:5%}
+    .fcol-ss_10{width:10%}
+    .fcol-ss_25{width:25%}
+    .fcol-ss_20{width:20%}
+    .fcol-ss_30{width:30%}
+    .fcol-ss_35{width:35%}
+    .fcol-ss_40{width:40%}
+    .fcol-ss_45{width:45%}
+    .fcol-ss_50{width:50%}
+    .fcol-ss_55{width:55%}
+    .fcol-ss_60{width:60%}
+    .fcol-ss_65{width:65%}
+    .fcol-ss_70{width:70%}
+    .fcol-ss_75{width:75%}
+    .fcol-ss_80{width:80%}
+    .fcol-ss_85{width:85%}
+    .fcol-ss_90{width:90%}
+    .fcol-ss_95{width:95%}
+    .fcol-ss_100{width:100%}
 }
 
 /*---- ---- Responsive vanilla ---- ----*/
@@ -245,6 +365,26 @@ body {margin: 0;padding: 0;}
     .vcol-ss-10 {width: 83.33%;}
     .vcol-ss-11 {width: 91.66%;}
     .vcol-ss-12 {width: 100%;}
+
+    .vcol-ss_5{width:5%}
+    .vcol-ss_10{width:10%}
+    .vcol-ss_25{width:25%}
+    .vcol-ss_20{width:20%}
+    .vcol-ss_30{width:30%}
+    .vcol-ss_35{width:35%}
+    .vcol-ss_40{width:40%}
+    .vcol-ss_45{width:45%}
+    .vcol-ss_50{width:50%}
+    .vcol-ss_55{width:55%}
+    .vcol-ss_60{width:60%}
+    .vcol-ss_65{width:65%}
+    .vcol-ss_70{width:70%}
+    .vcol-ss_75{width:75%}
+    .vcol-ss_80{width:80%}
+    .vcol-ss_85{width:85%}
+    .vcol-ss_90{width:90%}
+    .vcol-ss_95{width:95%}
+    .vcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 600px) {
     .vcol-s-1 {width: 8.33%;}
@@ -259,6 +399,26 @@ body {margin: 0;padding: 0;}
     .vcol-s-10 {width: 83.33%;}
     .vcol-s-11 {width: 91.66%;}
     .vcol-s-12 {width: 100%;}
+
+    .vcol-ss_5{width:5%}
+    .vcol-ss_10{width:10%}
+    .vcol-ss_25{width:25%}
+    .vcol-ss_20{width:20%}
+    .vcol-ss_30{width:30%}
+    .vcol-ss_35{width:35%}
+    .vcol-ss_40{width:40%}
+    .vcol-ss_45{width:45%}
+    .vcol-ss_50{width:50%}
+    .vcol-ss_55{width:55%}
+    .vcol-ss_60{width:60%}
+    .vcol-ss_65{width:65%}
+    .vcol-ss_70{width:70%}
+    .vcol-ss_75{width:75%}
+    .vcol-ss_80{width:80%}
+    .vcol-ss_85{width:85%}
+    .vcol-ss_90{width:90%}
+    .vcol-ss_95{width:95%}
+    .vcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 768px) {
     .vcol-1 {width: 8.33%;}
@@ -273,6 +433,26 @@ body {margin: 0;padding: 0;}
     .vcol-10 {width: 83.33%;}
     .vcol-11 {width: 91.66%;}
     .vcol-12 {width: 100%;}
+
+    .vcol-ss_5{width:5%}
+    .vcol-ss_10{width:10%}
+    .vcol-ss_25{width:25%}
+    .vcol-ss_20{width:20%}
+    .vcol-ss_30{width:30%}
+    .vcol-ss_35{width:35%}
+    .vcol-ss_40{width:40%}
+    .vcol-ss_45{width:45%}
+    .vcol-ss_50{width:50%}
+    .vcol-ss_55{width:55%}
+    .vcol-ss_60{width:60%}
+    .vcol-ss_65{width:65%}
+    .vcol-ss_70{width:70%}
+    .vcol-ss_75{width:75%}
+    .vcol-ss_80{width:80%}
+    .vcol-ss_85{width:85%}
+    .vcol-ss_90{width:90%}
+    .vcol-ss_95{width:95%}
+    .vcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 960px) {
     .vcol-m-1 {width: 8.33%;}
@@ -287,6 +467,26 @@ body {margin: 0;padding: 0;}
     .vcol-m-10 {width: 83.33%;}
     .vcol-m-11 {width: 91.66%;}
     .vcol-m-12 {width: 100%;}
+
+    .vcol-ss_5{width:5%}
+    .vcol-ss_10{width:10%}
+    .vcol-ss_25{width:25%}
+    .vcol-ss_20{width:20%}
+    .vcol-ss_30{width:30%}
+    .vcol-ss_35{width:35%}
+    .vcol-ss_40{width:40%}
+    .vcol-ss_45{width:45%}
+    .vcol-ss_50{width:50%}
+    .vcol-ss_55{width:55%}
+    .vcol-ss_60{width:60%}
+    .vcol-ss_65{width:65%}
+    .vcol-ss_70{width:70%}
+    .vcol-ss_75{width:75%}
+    .vcol-ss_80{width:80%}
+    .vcol-ss_85{width:85%}
+    .vcol-ss_90{width:90%}
+    .vcol-ss_95{width:95%}
+    .vcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 1200px) {
     .vcol-b-1 {width: 8.33%;}
@@ -301,6 +501,26 @@ body {margin: 0;padding: 0;}
     .vcol-b-10 {width: 83.33%;}
     .vcol-b-11 {width: 91.66%;}
     .vcol-b-12 {width: 100%;}
+
+    .vcol-ss_5{width:5%}
+    .vcol-ss_10{width:10%}
+    .vcol-ss_25{width:25%}
+    .vcol-ss_20{width:20%}
+    .vcol-ss_30{width:30%}
+    .vcol-ss_35{width:35%}
+    .vcol-ss_40{width:40%}
+    .vcol-ss_45{width:45%}
+    .vcol-ss_50{width:50%}
+    .vcol-ss_55{width:55%}
+    .vcol-ss_60{width:60%}
+    .vcol-ss_65{width:65%}
+    .vcol-ss_70{width:70%}
+    .vcol-ss_75{width:75%}
+    .vcol-ss_80{width:80%}
+    .vcol-ss_85{width:85%}
+    .vcol-ss_90{width:90%}
+    .vcol-ss_95{width:95%}
+    .vcol-ss_100{width:100%}
 }
 @media only screen and (min-width: 1760px) {
     .vcol-g-1 {width: 8.33%;}
@@ -315,6 +535,26 @@ body {margin: 0;padding: 0;}
     .vcol-g-10 {width: 83.33%;}
     .vcol-g-11 {width: 91.66%;}
     .vcol-g-12 {width: 100%;}
+
+    .vcol-ss_5{width:5%}
+    .vcol-ss_10{width:10%}
+    .vcol-ss_25{width:25%}
+    .vcol-ss_20{width:20%}
+    .vcol-ss_30{width:30%}
+    .vcol-ss_35{width:35%}
+    .vcol-ss_40{width:40%}
+    .vcol-ss_45{width:45%}
+    .vcol-ss_50{width:50%}
+    .vcol-ss_55{width:55%}
+    .vcol-ss_60{width:60%}
+    .vcol-ss_65{width:65%}
+    .vcol-ss_70{width:70%}
+    .vcol-ss_75{width:75%}
+    .vcol-ss_80{width:80%}
+    .vcol-ss_85{width:85%}
+    .vcol-ss_90{width:90%}
+    .vcol-ss_95{width:95%}
+    .vcol-ss_100{width:100%}
 }
 
 /*---- ---- Generic Elements ---- ----*/
