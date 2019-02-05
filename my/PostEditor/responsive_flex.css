@@ -115,6 +115,7 @@ html {
     flex-wrap:wrap;
     justify-content:center;
     align-items: center;
+    align-content: center;
 }
 .centerText{
     text-align:center;

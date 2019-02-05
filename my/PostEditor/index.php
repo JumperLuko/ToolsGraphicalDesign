@@ -6,15 +6,15 @@
 		<div class="col-12 start subMenu">
 			<form method="get" action=".#post" class="col-4">
 				<input type="hidden" name="post" value="visualize">
-				<input type="submit" value="Visualizar Post" class="col-12">
+				<input type="submit" value="Visualizar Post" class="col-12 center">
 			</form>
 			<form method="get" action=".#post" class="col-4">
 				<input type="hidden" name="post" value="edit">
-				<input type="submit" value="Editar Post" class="col-12">
+				<input type="submit" value="Editar Post" class="col-12 center">
 			</form>
 			<form method="get" action=".#post" class="col-4">
 				<input type="hidden" name="post" value="insert">
-				<input type="submit" value="Inserir Post" class="col-12">
+				<input type="submit" value="Inserir Post" class="col-12 center">
 			</form>
 		</div>
 		<div style="width:100%;" name="block-area">
@@ -58,16 +58,16 @@
 						   echo '<form method="post" action="post_proc.php" class="postEdit">
 			   		                <input name="title" type="text" placeholder="Titulo" class="col-12 postTitle" value="'.$line['name_post'].'"/>
 			   		                <input name="imgCapa" type="text" placeholder="Link da imagem de capa" class="col-12 postTitle" value="'.$line['imgCapa_post'].'"/>
-			   		                <textarea name="post_area" rows="10" style="color:#000000;font-family:Arial,Calibri;width:100%;background-color: #ffffff;">'.$line['post_post'].'</textarea>
+			   		                <textarea name="post_area" rows="10" style="color:#000000;font-family:Arial,Calibri;width:100%;background-color: #ffffff;resize: vertical;">'.$line['post_post'].'</textarea>
 									<input type="hidden" name="post" value="edit">
 			   						<div class="col-12 center">
 			   		                	<input type="submit" value="Atualizar" class="postTitle"/>
 			   						</div>
 			   		            </form>
-								<iframe src="tryEditor/tryEditor.html" style="resize: both;overflow: auto;width:100%;height:500px;margin:300px 0 0 0" noresize="resize"></iframe>
+								<iframe src="tryEditor/tryEditor.html" style="resize: both;overflow: auto;width:100%;height:500px;margin:300px 0 0 0;resize: vertical;" noresize="resize"></iframe>
 								<script src="ckeditor4.9.2-full-personalized/ckeditor.js"></script>
 								<div style="margin:40px 0 0 0;">
-									<textarea name="post_area" id="post_area" rows="10" cols="80" style="color:#000000;font-family:Arial,Calibri;">'.$line['post_post'].'</textarea>
+									<textarea name="post_area" id="post_area" rows="10" cols="80" style="color:#000000;font-family:Arial,Calibri;resize: vertical;">'.$line['post_post'].'</textarea>
 									<script>CKEDITOR.replace( post_area );</script>
 								</div>
 								';
