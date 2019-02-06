@@ -58,7 +58,7 @@
 						   echo '<form method="post" action="post_proc.php" class="postEdit">
 			   		                <input name="title" type="text" placeholder="Titulo" class="col-12 postTitle" value="'.$line['name_post'].'"/>
 			   		                <input name="imgCapa" type="text" placeholder="Link da imagem de capa" class="col-12 postTitle" value="'.$line['imgCapa_post'].'"/>
-			   		                <textarea name="post_area" rows="10" style="color:#000000;font-family:Arial,Calibri;width:100%;background-color: #ffffff;resize: vertical;">'.$line['post_post'].'</textarea>
+			   		                <textarea name="post_area" rows="30" style="color:#000000;font-family:Arial,Calibri;width:100%;background-color: #ffffff;resize: vertical;">'.$line['post_post'].'</textarea>
 									<input type="hidden" name="post" value="edit">
 			   						<div class="col-12 center">
 			   		                	<input type="submit" value="Atualizar" class="postTitle"/>
