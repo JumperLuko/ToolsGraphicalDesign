@@ -34,7 +34,7 @@ header a:target{
     background-color: #424d23;
     border: none;
     font-size: 30px;
-    padding: 30px
+    padding: 15px
 }.subMenu input[type="submit"]:hover{
     transition: all 0.1s linear;
     background-color: #424d23aa;
