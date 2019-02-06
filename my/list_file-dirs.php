@@ -81,7 +81,7 @@
         if ($handle = opendir('.')) {
             /* Esta é a forma correta de varrer o diretório */
             while (false !== ($file = readdir($handle))) {
-                if (is_file('.'.'/'.$file) && $file != ".ftpquota"){
+                if (is_file('.'.'/'.$file) && $file != ".ftpquota" && $file != "index.php"){
                     echo '                <tr><td><a href="'.$file.'">'.$file.'</a></td><td>'.round((filesize($file)/1024),2).' MB</td><td>'.date("d/m/Y H:i",filemtime($file)).'</td></tr>'."\n";
                 }
             }
