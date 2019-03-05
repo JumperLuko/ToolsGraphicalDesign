@@ -27,11 +27,23 @@ Animation while you SCROLL the page!
 
 `WOW-master.zip` is the file in version 1.1.3
 
-[![Here](http://mynameismatthieu.com/WOW/img/wow-logo.jpg)](http://mynameismatthieu.com/WOW/)
+[![WOW.js link](http://mynameismatthieu.com/WOW/img/wow-logo.jpg)](http://mynameismatthieu.com/WOW/)
 
 is the HOME PAAAAAGE. SO GLORIOUS
 
 [![Link GitHub](gitgub-tag.svg)](https://github.com/matthieua/WOW) on GitHub
+
+## Normalize.css
+A modern alternative to CSS resets
+
+`normalize.css` is the file in the version 8.0.1
+
+`normalize.min.css` is the same file above, but smaller.
+
+```npm 
+npm install --save normalize.css 
+```
+[![Link GitHub](gitgub-tag.svg)](https://github.com/necolas/normalize.css/) on GitHub
 
 ## Magnify Bootstrap
 Zoom it photos, simplely code.
