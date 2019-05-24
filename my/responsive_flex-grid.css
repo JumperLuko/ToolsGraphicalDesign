@@ -130,52 +130,52 @@ body {
     width: 100%;
   }
   .gcol--1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol--2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol--3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol--4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol--5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol--6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol--7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol--8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol--9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol--10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol--11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol--12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -274,52 +274,52 @@ body {
     width: 100%;
   }
   .gcol-ss-1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol-ss-2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol-ss-3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol-ss-4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol-ss-5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol-ss-6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol-ss-7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol-ss-8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol-ss-9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol-ss-10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-ss-11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-ss-12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -418,52 +418,52 @@ body {
     width: 100%;
   }
   .gcol-s-1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol-s-2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol-s-3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol-s-4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol-s-5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol-s-6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol-s-7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol-s-8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol-s-9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol-s-10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-s-11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-s-12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -562,52 +562,52 @@ body {
     width: 100%;
   }
   .gcol-1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol-2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol-3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol-4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol-5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol-6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol-7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol-8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol-9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol-10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -706,52 +706,52 @@ body {
     width: 100%;
   }
   .gcol-m-1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol-m-2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol-m-3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol-m-4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol-m-5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol-m-6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol-m-7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol-m-8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol-m-9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol-m-10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-m-11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-m-12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -850,52 +850,52 @@ body {
     width: 100%;
   }
   .gcol-b-1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol-b-2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol-b-3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol-b-4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol-b-5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol-b-6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol-b-7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol-b-8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol-b-9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol-b-10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-b-11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-b-12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -994,52 +994,52 @@ body {
     width: 100%;
   }
   .gcol-g-1 {
-    -ms-grid-columns: 100%;
-        grid-template-columns: 100%;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
   }
   .gcol-g-2 {
-    -ms-grid-columns: 50% 50%;
-        grid-template-columns: 50% 50%;
+    -ms-grid-columns: auto auto;
+        grid-template-columns: auto auto;
   }
   .gcol-g-3 {
-    -ms-grid-columns: 33.3334% 33.3334% 33.3334%;
-        grid-template-columns: 33.3334% 33.3334% 33.3334%;
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
   }
   .gcol-g-4 {
-    -ms-grid-columns: 25% 25% 25% 25%;
-        grid-template-columns: 25% 25% 25% 25%;
+    -ms-grid-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
   }
   .gcol-g-5 {
-    -ms-grid-columns: 20% 20% 20% 20% 20%;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+    -ms-grid-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
   }
   .gcol-g-6 {
-    -ms-grid-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-        grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+    -ms-grid-columns: auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto;
   }
   .gcol-g-7 {
-    -ms-grid-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-        grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+    -ms-grid-columns: auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto;
   }
   .gcol-g-8 {
-    -ms-grid-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-        grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto;
   }
   .gcol-g-9 {
-    -ms-grid-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-        grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto;
   }
   .gcol-g-10 {
-    -ms-grid-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-g-11 {
-    -ms-grid-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-        grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .gcol-g-12 {
-    -ms-grid-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-        grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+    -ms-grid-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
   }
 }
 
@@ -1051,63 +1051,63 @@ body {
 }
 
 .grow-1 {
-  -ms-grid-rows: 100%;
-      grid-template-rows: 100%;
+  -ms-grid-rows: auto;
+      grid-template-rows: auto;
 }
 
 .grow-2 {
-  -ms-grid-rows: 50% 50%;
-      grid-template-rows: 50% 50%;
+  -ms-grid-rows: auto auto;
+      grid-template-rows: auto auto;
 }
 
 .grow-3 {
-  -ms-grid-rows: 33.3334% 33.3334% 33.3334%;
-      grid-template-rows: 33.3334% 33.3334% 33.3334%;
+  -ms-grid-rows: auto auto auto;
+      grid-template-rows: auto auto auto;
 }
 
 .grow-4 {
-  -ms-grid-rows: 25% 25% 25% 25%;
-      grid-template-rows: 25% 25% 25% 25%;
+  -ms-grid-rows: auto auto auto auto;
+      grid-template-rows: auto auto auto auto;
 }
 
 .grow-5 {
-  -ms-grid-rows: 20% 20% 20% 20% 20%;
-      grid-template-rows: 20% 20% 20% 20% 20%;
+  -ms-grid-rows: auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto;
 }
 
 .grow-6 {
-  -ms-grid-rows: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-      grid-template-rows: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+  -ms-grid-rows: auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto;
 }
 
 .grow-7 {
-  -ms-grid-rows: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
-      grid-template-rows: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;
+  -ms-grid-rows: auto auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto auto;
 }
 
 .grow-8 {
-  -ms-grid-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-      grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+  -ms-grid-rows: auto auto auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto auto auto;
 }
 
 .grow-9 {
-  -ms-grid-rows: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
-      grid-template-rows: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;
+  -ms-grid-rows: auto auto auto auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto auto auto auto;
 }
 
 .grow-10 {
-  -ms-grid-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-      grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto auto auto auto auto;
 }
 
 .grow-11 {
-  -ms-grid-rows: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
-      grid-template-rows: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;
+  -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
 }
 
 .grow-12 {
-  -ms-grid-rows: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
-      grid-template-rows: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;
+  -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto;
+      grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto;
 }
 
 /*---- ---- Generic Elements ---- ----*/

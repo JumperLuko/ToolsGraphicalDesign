@@ -62,18 +62,18 @@ body {margin: 0;padding: 0;}
     .col-_100{width:100%}
 
     
-    .gcol--1 {grid-template-columns: 100%;}
-    .gcol--2 {grid-template-columns: 50% 50%;}
-    .gcol--3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol--4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol--5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol--6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol--7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol--8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol--9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol--10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol--11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol--12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol--1 {grid-template-columns: auto;}
+    .gcol--2 {grid-template-columns: auto auto;}
+    .gcol--3 {grid-template-columns: auto auto auto;}
+    .gcol--4 {grid-template-columns: auto auto auto auto;}
+    .gcol--5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol--6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol--7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol--8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol--9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol--10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol--11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol--12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 @media only screen and (min-width: 350px) {
     .col-ss-1 {width: 8.33%;}
@@ -110,18 +110,18 @@ body {margin: 0;padding: 0;}
     .col-ss_100{width:100%}
 
     
-    .gcol-ss-1 {grid-template-columns: 100%;}
-    .gcol-ss-2 {grid-template-columns: 50% 50%;}
-    .gcol-ss-3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol-ss-4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol-ss-5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol-ss-6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol-ss-7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol-ss-8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol-ss-9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol-ss-10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol-ss-11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol-ss-12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol-ss-1 {grid-template-columns: auto;}
+    .gcol-ss-2 {grid-template-columns: auto auto;}
+    .gcol-ss-3 {grid-template-columns: auto auto auto;}
+    .gcol-ss-4 {grid-template-columns: auto auto auto auto;}
+    .gcol-ss-5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol-ss-6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol-ss-7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol-ss-8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol-ss-9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol-ss-10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-ss-11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-ss-12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 @media only screen and (min-width: 600px) {
     .col-s-1 {width: 8.33%;}
@@ -158,18 +158,18 @@ body {margin: 0;padding: 0;}
     .col-s_100{width:100%}
 
 
-    .gcol-s-1 {grid-template-columns: 100%;}
-    .gcol-s-2 {grid-template-columns: 50% 50%;}
-    .gcol-s-3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol-s-4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol-s-5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol-s-6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol-s-7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol-s-8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol-s-9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol-s-10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol-s-11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol-s-12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol-s-1 {grid-template-columns: auto;}
+    .gcol-s-2 {grid-template-columns: auto auto;}
+    .gcol-s-3 {grid-template-columns: auto auto auto;}
+    .gcol-s-4 {grid-template-columns: auto auto auto auto;}
+    .gcol-s-5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol-s-6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol-s-7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol-s-8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol-s-9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol-s-10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-s-11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-s-12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 @media only screen and (min-width: 768px) {
     .col-1 {width: 8.33%;}
@@ -206,18 +206,18 @@ body {margin: 0;padding: 0;}
     .col_100{width:100%}
 
 
-    .gcol-1 {grid-template-columns: 100%;}
-    .gcol-2 {grid-template-columns: 50% 50%;}
-    .gcol-3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol-4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol-5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol-6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol-7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol-8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol-9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol-10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol-11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol-12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol-1 {grid-template-columns: auto;}
+    .gcol-2 {grid-template-columns: auto auto;}
+    .gcol-3 {grid-template-columns: auto auto auto;}
+    .gcol-4 {grid-template-columns: auto auto auto auto;}
+    .gcol-5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol-6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol-7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol-8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol-9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol-10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 @media only screen and (min-width: 960px) {
     .col-m-1 {width: 8.33%;}
@@ -254,18 +254,18 @@ body {margin: 0;padding: 0;}
     .col-m_100{width:100%}
 
 
-    .gcol-m-1 {grid-template-columns: 100%;}
-    .gcol-m-2 {grid-template-columns: 50% 50%;}
-    .gcol-m-3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol-m-4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol-m-5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol-m-6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol-m-7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol-m-8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol-m-9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol-m-10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol-m-11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol-m-12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol-m-1 {grid-template-columns: auto;}
+    .gcol-m-2 {grid-template-columns: auto auto;}
+    .gcol-m-3 {grid-template-columns: auto auto auto;}
+    .gcol-m-4 {grid-template-columns: auto auto auto auto;}
+    .gcol-m-5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol-m-6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol-m-7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol-m-8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol-m-9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol-m-10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-m-11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-m-12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 @media only screen and (min-width: 1200px) {
     .col-b-1 {width: 8.33%;}
@@ -302,18 +302,18 @@ body {margin: 0;padding: 0;}
     .col-b_100{width:100%}
 
 
-    .gcol-b-1 {grid-template-columns: 100%;}
-    .gcol-b-2 {grid-template-columns: 50% 50%;}
-    .gcol-b-3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol-b-4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol-b-5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol-b-6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol-b-7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol-b-8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol-b-9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol-b-10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol-b-11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol-b-12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol-b-1 {grid-template-columns: auto;}
+    .gcol-b-2 {grid-template-columns: auto auto;}
+    .gcol-b-3 {grid-template-columns: auto auto auto;}
+    .gcol-b-4 {grid-template-columns: auto auto auto auto;}
+    .gcol-b-5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol-b-6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol-b-7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol-b-8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol-b-9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol-b-10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-b-11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-b-12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 @media only screen and (min-width: 1760px) {
     .col-g-1 {width: 8.33%;}
@@ -350,18 +350,18 @@ body {margin: 0;padding: 0;}
     .col-g_100{width:100%}
 
 
-    .gcol-g-1 {grid-template-columns: 100%;}
-    .gcol-g-2 {grid-template-columns: 50% 50%;}
-    .gcol-g-3 {grid-template-columns: 33.3334% 33.3334% 33.3334%;}
-    .gcol-g-4 {grid-template-columns: 25% 25% 25% 25%;}
-    .gcol-g-5 {grid-template-columns: 20% 20% 20% 20% 20%;}
-    .gcol-g-6 {grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-    .gcol-g-7 {grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-    .gcol-g-8 {grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-    .gcol-g-9 {grid-template-columns: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-    .gcol-g-10 {grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-    .gcol-g-11 {grid-template-columns: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-    .gcol-g-12 {grid-template-columns: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+    .gcol-g-1 {grid-template-columns: auto;}
+    .gcol-g-2 {grid-template-columns: auto auto;}
+    .gcol-g-3 {grid-template-columns: auto auto auto;}
+    .gcol-g-4 {grid-template-columns: auto auto auto auto;}
+    .gcol-g-5 {grid-template-columns: auto auto auto auto auto;}
+    .gcol-g-6 {grid-template-columns: auto auto auto auto auto auto;}
+    .gcol-g-7 {grid-template-columns: auto auto auto auto auto auto auto;}
+    .gcol-g-8 {grid-template-columns: auto auto auto auto auto auto auto auto;}
+    .gcol-g-9 {grid-template-columns: auto auto auto auto auto auto auto auto auto;}
+    .gcol-g-10 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-g-11 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;}
+    .gcol-g-12 {grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;}
 }
 
 /*---- ---- Responsive Grid row ---- ----*/
@@ -369,18 +369,18 @@ body {margin: 0;padding: 0;}
 [class*="grow-"] {
     display: grid;
 }
-.grow-1 {grid-template-rows: 100%;}
-.grow-2 {grid-template-rows: 50% 50%;}
-.grow-3 {grid-template-rows: 33.3334% 33.3334% 33.3334%;}
-.grow-4 {grid-template-rows: 25% 25% 25% 25%;}
-.grow-5 {grid-template-rows: 20% 20% 20% 20% 20%;}
-.grow-6 {grid-template-rows: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;}
-.grow-7 {grid-template-rows: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;}
-.grow-8 {grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;}
-.grow-9 {grid-template-rows: 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112% 11.1112%;}
-.grow-10 {grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;}
-.grow-11 {grid-template-rows: 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909% 9.0909%;}
-.grow-12 {grid-template-rows: 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334% 8.3334%;}
+.grow-1 {grid-template-rows: auto;}
+.grow-2 {grid-template-rows: auto auto;}
+.grow-3 {grid-template-rows: auto auto auto;}
+.grow-4 {grid-template-rows: auto auto auto auto;}
+.grow-5 {grid-template-rows: auto auto auto auto auto;}
+.grow-6 {grid-template-rows: auto auto auto auto auto auto;}
+.grow-7 {grid-template-rows: auto auto auto auto auto auto auto;}
+.grow-8 {grid-template-rows: auto auto auto auto auto auto auto auto;}
+.grow-9 {grid-template-rows: auto auto auto auto auto auto auto auto auto;}
+.grow-10 {grid-template-rows: auto auto auto auto auto auto auto auto auto auto;}
+.grow-11 {grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;}
+.grow-12 {grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto;}
 
 
 /*---- ---- Generic Elements ---- ----*/
