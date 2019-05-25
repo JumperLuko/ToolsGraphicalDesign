@@ -18,7 +18,7 @@ body {margin: 0;padding: 0;}
 /*---- ---- Responsive Columns Vanilla (col-) & Grid (gcol-) ---- ----*/
 /* Flex & Vanilla: Adjust size on child elements, only column */
 /* Grid: Adjust size on father elements, column  */
-[class*="gcol-"] {
+[class*="gcol-"],[class*="gacol-"]{
     display: grid;
     grid-template-columns: 100%;
 }
@@ -455,7 +455,7 @@ body {margin: 0;padding: 0;}
 
 /*---- ---- Responsive Grid row ---- ----*/
 /* Adjust size on father elements, row */
-[class*="grow-"] {
+[class*="grow-"],[class*="garow-"] {
     display: grid;
 }
 .grow-1 {grid-template-rows: 100%;}
