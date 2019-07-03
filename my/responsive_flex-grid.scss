@@ -637,7 +637,9 @@ html {font-family: "Lucida Sans", sans-serif, Arial;}
 .flex{display: flex;}
 .wrap{flex-wrap: wrap;}
 .column{flex-direction: column;}
+.column-reverse{flex-direction: column-reverse;}
 .row{flex-direction: row;}
+.row-reverse{flex-direction: row-reverse;}
 .inlineF,.startF{
     display: flex;
     justify-content: flex-start;
