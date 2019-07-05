@@ -54,4 +54,4 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 INSERT INTO `categoryPost` (`id_categoryPost`, `name_categoryPost`) VALUES ('0', 'nothing');
 INSERT INTO `user` (`id_user`, `name_user`, `nickname_user`, `password_user`) VALUES ('1', 'Usuário Raiz', 'root', 'c14173849d7543f591683429af6bc22f55d1504f');
-INSERT INTO post(name_post,post_post,fk_categoryPost_post) VALUES('exemplo','<h3>Se este exemplo retornou, a cunsulta <strong>funcionou</strong>.</h3><ul><li>Verifique se n&atilde;o avisos de erros e erros nos acentos.</li><li>Fa&ccedil;a um c&oacute;digo e uma interface agr&aacute;davel.</li><li>Agilize tudo que for poss&iacute;vel.</li></ul><p>Visite <a href="http://jumperl.com/">Jumperl.com</a> para webDesign</p>','0');
+INSERT INTO post(name_post,post_post,fk_categoryPost_post) VALUES('exemplo','<h3>Se este exemplo retornou, a cunsulta <strong>funcionou</strong>.</h3><ul><li>Verifique se n&atilde;o avisos de erros e erros nos acentos.</li><li>Fa&ccedil;a um c&oacute;digo e uma interface agr&aacute;davel.</li><li>Agilize tudo que for poss&iacute;vel.</li></ul><p>Visite <a href="http://JumperLuko.com/">JumperLuko.com</a> para webDesign</p>','0');

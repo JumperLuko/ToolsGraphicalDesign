@@ -5,6 +5,7 @@
     <meta name="language" content="pt-br">
     <meta name="generator" content="Atom" />
     <meta name="revisit-after" content="7 days"/>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="responsive_flex.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="./css/responsive_flex-grid.min.css">
+    <link rel="icon" type="image/png" sizes="64x64" href="./favicon.ico">
 </head>

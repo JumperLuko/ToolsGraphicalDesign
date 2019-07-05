@@ -1,5 +1,5 @@
 <html>
-    <?php require('head.php'); ?>
+    <?php require('./rdd/head.php'); ?>
     <head>
         <title>Login</title>
         <style>
@@ -23,7 +23,7 @@
         <link rel="stylesheet" type="text/css" href="responsive_flex.css">
     </head>
     <body>
-        <?php require('header.php'); ?>
+        <?php require('./rdd/nav.php'); ?>
         <div class="login col-12 center">
             <div class="col-12 center">
                 <h1>Login</h1>
