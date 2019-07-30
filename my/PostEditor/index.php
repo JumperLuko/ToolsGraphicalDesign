@@ -22,7 +22,7 @@
 			if(isset($_GET['post'])){
 				if($_GET['post']=='visualize'){
 					require('connect.php');
-					$consulta = "select post.id_post,post.name_post from post;";
+					$consulta = "select post.id_post,post.name_post from post ORDER BY post.id_post DESC;";
 					$query = mysqli_query($conexao,$consulta);
 					echo '<form method="get" action=".#post"> <select name="query">';
 					while($line  =  mysqli_fetch_array($query)){
@@ -42,7 +42,7 @@
 				unset($consulta,$query,$line);
 				}elseif($_GET['post']=='edit'){
 					require('connect.php');
-					$consulta = "select post.id_post,post.name_post from post ORDER BY post.name_post;";
+					$consulta = "select post.id_post,post.name_post from post ORDER BY post.id_post DESC";
 					$query = mysqli_query($conexao,$consulta);
 					$query2 = $query;
 					echo '<form method="get" action=".?post=edit#post"> <select name="query">';

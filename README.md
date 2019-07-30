@@ -4,14 +4,13 @@ _Tool filtered by JumperLuko from JumperLuko_
 
 I'm search for simple tools for development, very effective in results, small source code and few chances of conflict. Be happy.
 
+## My Creations
+Check all my creations that passed the my approval in `my` folder.
+
 ## Responsive.css
 Someone can use my css style, based in w3Schools examples.
 
 `responsive_flex-grid.css` on folder `my` is the file based in the flex, grid and block (write like vanilla mode) elements.
-
-`responsive_flex.css` on folder `my` is the file based in the flex element.
-
-`responsive_block.css` on folder `my` is the file and i'm editing with no versioning.
 
 ## Animate.css
 Animate easily, the code has one file in CSS.
@@ -45,6 +44,20 @@ npm install --save normalize.css
 ```
 [![Link GitHub](gitgub-tag.svg)](https://github.com/necolas/normalize.css/) on GitHub
 
+## Font Awesome
+Best icons
+
+`fontawesome-free-5.0.8.zip` is the file, you can suppose the version.
+
+[Here](https://fontawesome.com/) home page.
+
+[![Link GitHub](gitgub-tag.svg)](https://github.com/FortAwesome/Font-Awesome) on GitHub
+
+## Palleton
+It's not has a files, but are a grateful tool for select colors.
+
+[Here](http://paletton.com) you found the beautiful site.
+
 ## Magnify Bootstrap
 Zoom it photos, simplely code.
 
@@ -61,19 +74,3 @@ Oh Glob, so many zooms. Its sooo complete.
 
 [![Link GitHub](gitgub-tag.svg)](https://github.com/mark-rolich/Event.js) on GitHub
 
-## Font Awesome
-Best icons
-
-`fontawesome-free-5.0.8.zip` is the file, you can suppose the version.
-
-[Here](https://fontawesome.com/) home page.
-
-[![Link GitHub](gitgub-tag.svg)](https://github.com/FortAwesome/Font-Awesome) on GitHub
-
-## Palleton
-It's not has a files, but are a grateful tool for select colors.
-
-[Here](http://paletton.com) you found the beautiful site.
-
-## My Creations
-Check all my creations that passed the my approval in `my` folder.

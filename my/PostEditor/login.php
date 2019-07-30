@@ -20,15 +20,12 @@
                 height: calc(100vh - 50px);
             }
         </style>
-        <link rel="stylesheet" type="text/css" href="responsive_flex.css">
     </head>
     <body>
         <?php require('./rdd/nav.php'); ?>
-        <div class="login col-12 center">
-            <div class="col-12 center">
-                <h1>Login</h1>
-            </div>
-            <table class="col-12 center centerText">
+        <div class="login col-12 flex wrap center">
+            <h1 class="col-12 centerText">Login</h1>
+            <table class="col-12 flex center centerText">
                 <form action="login_proc.php" method="post">
                     <tr>
                         <th>User</th>
