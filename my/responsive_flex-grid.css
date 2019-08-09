@@ -16,10 +16,13 @@ Please Read for help:
           box-sizing: border-box;
 }
 
+html {
+  font-size: 16px;
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-size: 16px;
 }
 
 /*---- ---- Responsive Columns Vanilla (col-) & Grid (gcol-) ---- ----*/
